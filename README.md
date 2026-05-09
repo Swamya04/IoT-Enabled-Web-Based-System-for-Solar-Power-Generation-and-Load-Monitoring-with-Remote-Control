@@ -210,10 +210,8 @@ Open the IP address in a browser to access the live dashboard.
 # Project Structure
 
 ```text
-├── main_code.ino
+├── Project.ino
 ├── README.md
-├── images
-│   └── dashboard.png
 ```
 
 ---
