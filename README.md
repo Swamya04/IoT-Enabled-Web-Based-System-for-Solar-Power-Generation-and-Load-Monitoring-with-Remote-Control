@@ -125,8 +125,7 @@ Power Source → Load → ACS712 → GND
 |---|---|
 | V0 | Voltage |
 | V1 | Current |
-| V2 | Power |
-| V3 | Relay Control |
+| V2 | Relay Control |
 
 ---
 
